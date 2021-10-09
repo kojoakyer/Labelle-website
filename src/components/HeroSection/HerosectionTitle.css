@@ -1,0 +1,47 @@
+
+
+.hero-heading{
+    margin-top: 200px;
+    margin-bottom: -10px;
+
+
+}
+
+.hero-heading .hero_h1{
+    display: inline-block;
+    background-image: linear-gradient(to right,#fdb9fc, #ed50f1 );
+    -webkit-background-clip: text;
+    letter-spacing: 2px;
+    transition: all .2s ease;
+    font-size: 3rem;
+    text-transform: uppercase;
+    font-weight: 700;
+    color: transparent;
+    font-family: Lato,sans-serif;
+  }
+  
+  .hero-heading:hover{
+    transform: skewY(2deg) skewX(15deg) scale(1.1);
+    text-shadow: 5px 10px 20px rgba(0, 0, 0, 0.2);
+  }
+  
+  .hero-heading .hero_h1{
+      color: #ed50f1;
+      font-size: 2.5rem;
+  }
+
+  @media screen and (max-width: 768px) {
+
+    .hero-heading{
+      margin-top: 100px;
+      margin-bottom: -50px;
+    }
+    .hero-heading .hero_h1{
+
+      font-size: 1rem;
+      font-weight: 500;
+  
+    }
+
+
+  }

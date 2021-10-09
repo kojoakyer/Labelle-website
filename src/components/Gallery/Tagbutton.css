@@ -1,0 +1,16 @@
+
+.tag{
+    outline: none;
+    border: none;
+    color: violet;
+    margin: 0px 10px;
+    font-size: 2rem;
+    text-decoration: none;
+    background-color: transparent;
+    cursor: pointer;
+}
+
+.active{
+    font-weight: bold;
+    border-bottom:2px solid black;
+}
