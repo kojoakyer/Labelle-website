@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Labelle-website/static/css/main.cf055eda.chunk.css",
+    "main.js": "/Labelle-website/static/js/main.ce25ca0d.chunk.js",
+    "main.js.map": "/Labelle-website/static/js/main.ce25ca0d.chunk.js.map",
+    "runtime-main.js": "/Labelle-website/static/js/runtime-main.c422bd59.js",
+    "runtime-main.js.map": "/Labelle-website/static/js/runtime-main.c422bd59.js.map",
+    "static/js/2.2dde1081.chunk.js": "/Labelle-website/static/js/2.2dde1081.chunk.js",
+    "static/js/2.2dde1081.chunk.js.map": "/Labelle-website/static/js/2.2dde1081.chunk.js.map",
+    "static/js/3.128ebed3.chunk.js": "/Labelle-website/static/js/3.128ebed3.chunk.js",
+    "static/js/3.128ebed3.chunk.js.map": "/Labelle-website/static/js/3.128ebed3.chunk.js.map",
+    "index.html": "/Labelle-website/index.html",
+    "static/css/main.cf055eda.chunk.css.map": "/Labelle-website/static/css/main.cf055eda.chunk.css.map",
+    "static/js/2.2dde1081.chunk.js.LICENSE.txt": "/Labelle-website/static/js/2.2dde1081.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/Labelle-website/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c422bd59.js",
+    "static/js/2.2dde1081.chunk.js",
+    "static/css/main.cf055eda.chunk.css",
+    "static/js/main.ce25ca0d.chunk.js"
+  ]
+}
